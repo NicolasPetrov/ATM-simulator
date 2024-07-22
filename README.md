@@ -1,2 +1,2 @@
 # ATM-simulator
-This program allows the user to log in using a PIN, shows the balance, and allows for viewing a statement of recent transactions. 
+This code provides the basic functionality for an ATM interface with login functionality, balance checking, viewing transactions, depositing, and withdrawing money. The program uses Java Swing for the graphical interface.
